@@ -36,8 +36,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Abishekk10&show_icons=true&theme=dark" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekk10&layout=compact&theme=dark" height="165"/>
+
 </p>
