@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">B.Tech Computer Science Engineering Student | SRMIST-RMP | Aspiring Full-Stack Developer</h3>
+<h3 align="center">B.Tech Computer Science Engineering Student | SRMIST-RMP | Software Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Pursuing B.Tech in Computer Science Engineering  
-- 🌱 Currently learning Full-Stack Development  
+- 🌱 Currently learning Full-Stack Development 
 - 💡 Interested in building scalable and user-focused web applications  
 - 🚀 Continuously improving through projects and practice  
 
